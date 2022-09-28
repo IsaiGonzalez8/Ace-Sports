@@ -1,0 +1,51 @@
+footer{
+    position: absolute;
+    top: 100%;
+    width: 100%; 
+    height: 220px;
+    color: white;
+    background: rgb(43, 88, 146);
+    overflow: hidden;
+}
+.subTitulos{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 110px 0px 120px;
+    overflow: hidden;
+}
+.subTitulos h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.textos{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 28px 0px 0px 100px;
+    overflow: hidden;
+}
+.redesSociales{
+    display: flex;
+    padding: 0px 80px 0px 0px;
+}
+.redesSociales img{
+    display: flex;
+    width: 72px;
+    height: 72px;
+    color: white;
+    padding: 0px 20px 0px 15px;
+}
+
+.textos p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 17px;
+    overflow: hidden;
+}
+.copy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 45px 0px 0px 0px;
+}
+
+
