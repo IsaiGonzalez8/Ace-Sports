@@ -3,6 +3,7 @@ import '../assets/style/noticias.css'
 import not1 from '../assets/img/noticia1.jpg'
 import not2 from '../assets/img/noticia2.jpg'
 import not3 from '../assets/img/noticia3.jpg'
+/* import Cards from './Cards' */
 
 function Noticias(){
     return (
@@ -26,6 +27,7 @@ function Noticias(){
     <h3><a href="">Ultimos resultados de los Partidos de NFL</a></h3>
     </div>
     </div>
+    {/* <Cards></Cards> */}
     </>
     )   
 }

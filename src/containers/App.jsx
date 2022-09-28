@@ -1,5 +1,5 @@
 import Layout from "./Layout";
-import Contacto from "../components/Contacto";
+import Contacto from "../components/Main";
 
 function App() {
     return (
